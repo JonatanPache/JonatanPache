@@ -1,6 +1,6 @@
 # 🎸 Yonatan J. Condori Pacheco
 
-**`(Developer/ Guitarist)`**
+**`(Developer)`**
 
 
 I'm a full-stack developer and guitarist in the night. Most of my repositories are built from the ground up.
